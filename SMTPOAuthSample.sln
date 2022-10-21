@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMTPOAuthSample", "SMTPOAuthSample.csproj", "{CAE4F1B0-A114-4AC4-B3BD-9D653F2F32D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAE4F1B0-A114-4AC4-B3BD-9D653F2F32D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAE4F1B0-A114-4AC4-B3BD-9D653F2F32D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAE4F1B0-A114-4AC4-B3BD-9D653F2F32D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAE4F1B0-A114-4AC4-B3BD-9D653F2F32D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0D44557-8796-4D8B-9FAF-40C1833AFBF7}
+	EndGlobalSection
+EndGlobal
